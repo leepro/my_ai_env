@@ -64,7 +64,7 @@ tensorflowjs_converter \
 
 * Automate the labelling
 
-![01](./images/01_run_ai_locally.png)
-![02](./images/02_select_local_model.png)
-![03](./images/03_loaded_selection.png)
-![04](./images/04_detected.png)
+<img src="https://github.com/leepro/my_ai_env/raw/main/YOLO/images/01_run_ai_locally.png" width="640">
+<img src="https://github.com/leepro/my_ai_env/raw/main/YOLO/images/02_select_local_model.png" width="640">
+<img src="https://github.com/leepro/my_ai_env/raw/main/YOLO/images/03_loaded_selection.png" width="640">
+<img src="https://github.com/leepro/my_ai_env/raw/main/YOLO/images/04_detected.png" width="640">
