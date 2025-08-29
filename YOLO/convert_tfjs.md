@@ -59,3 +59,7 @@ tensorflowjs_converter \
     ./yolov5s_saved_model \
     ./yolov5s_tfjs
 ```
+
+# Load into Makesense.ai
+
+* Automate the labelling
